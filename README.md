@@ -4,4 +4,4 @@ starterkit
 
 ## `npm install`
 
-## `npm run dev Or yarn dev`
+## `npm run dev` Or `yarn dev`
