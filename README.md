@@ -1,4 +1,4 @@
-# Vue 3 + Vite + Tailwind
+# Vue 3 + Vite + Tailwind + typescript
 
 starterkit
 

@@ -3,6 +3,6 @@ import HelloWorld from './components/HelloWorld.vue'
 </script>
 
 <template>
-  <HelloWorld msg="Vue + Tailwind + vite Starter Kit" />
+  <HelloWorld title="Vue + Tailwind + vite + typescript Starter Kit" description="Created By Javad Fathi" />
 </template>
 
